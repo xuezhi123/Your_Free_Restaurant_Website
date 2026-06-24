@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-serif: var(--font-cormorant);
+  --font-sans: var(--font-nunito);
+  --max-width-container: 1200px;
+}
