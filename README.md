@@ -26,8 +26,8 @@ This is a complete, ready-to-go website for a restaurant, café, or food busines
 - Adjust logo spacing and section padding visually
 
 ### Demo Video
+https://github.com/user-attachments/assets/c2fbe92e-0f88-408e-a700-4b3564e0e4c5
 
-[![Demo Video](https://img.youtube.com/vi/RMp08sfa9F8/0.jpg)](https://youtu.be/RMp08sfa9F8)
 
 ---
 
