@@ -27,9 +27,7 @@ This is a complete, ready-to-go website for a restaurant, café, or food busines
 
 ### Demo Video
 
-> 📺 *Paste your demo video link here — e.g., an unlisted YouTube link or Loom recording*
-
-[![Demo Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtube.com/watch?v=your-video-id)
+<video src="demo/restaurant_demo.mp4" controls width="100%" muted loop playsinline></video>
 
 ---
 
@@ -126,7 +124,12 @@ Separate the day and time with a space. The site automatically aligns days and t
 3. Add the same three environment variables from `.env.local`
 4. Deploy
 
-After deploying, add your Vercel URL (e.g. `https://your-app.vercel.app`) to Sanity CORS origins.
+After deploying, add your production URL to Sanity CORS so you can use the Studio on the live site:
+
+1. Sanity dashboard → **API** → **CORS origins** → Add
+2. `https://your-app.vercel.app` — enable credentials
+
+Your Studio is now at `https://your-app.vercel.app/studio`. You can edit all content from there — no need to run the project locally.
 
 ---
 
