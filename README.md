@@ -27,7 +27,7 @@ This is a complete, ready-to-go website for a restaurant, café, or food busines
 
 ### Demo Video
 
-<video src="demo/restaurant_demo.mp4" controls width="100%" muted loop playsinline></video>
+[![Demo Video](https://img.youtube.com/vi/RMp08sfa9F8/0.jpg)](https://youtu.be/RMp08sfa9F8)
 
 ---
 

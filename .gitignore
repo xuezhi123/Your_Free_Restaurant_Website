@@ -47,6 +47,7 @@ next-env.d.ts
 debug.log
 
 # demo
+demo/
 scripts/seed.ts
 images/catering.png
 images/giftcard.png
